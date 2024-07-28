@@ -20,7 +20,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1280px;
+    max-width: 1100px;
     width: 100%;
 }
 
@@ -81,7 +81,7 @@ h1 span, h2 span {
 #inicio {
     display: flex;
     align-items: center;
-    max-width: 1280px;
+    max-width: 1100px;
     margin-left: auto;
     margin-right: auto;
     justify-content: space-between;
@@ -118,6 +118,7 @@ h1 span, h2 span {
 #inicio img {
     width: 620px;
     object-fit: contain;
+    margin-right: -60px;
 }
 
 #sobre {
@@ -131,7 +132,7 @@ h1 span, h2 span {
 .about-wrapper {
     display: flex;
     align-items: center;
-    max-width: 1280px;
+    max-width: 1100px;
     justify-content: space-between;
     width: 100%;
 }
